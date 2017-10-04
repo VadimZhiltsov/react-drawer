@@ -2,6 +2,7 @@
   "name": "react-drawer",
   "description": "react drawer menu",
   "main": "./lib/react-drawer.js",
+  "version": "0.1.0",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
